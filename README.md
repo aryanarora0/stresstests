@@ -1,2 +1,2 @@
-# stresstests
-Stress-Testing MLP in PyTorch
+# nnstress
+Stress-Testing torch
